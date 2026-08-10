@@ -1,5 +1,7 @@
 {
-    "hwids": [],
+    "hwids": [
+        "250861787600592-FCC713D0-A694-319B-C89A-30C5995433A0-9c71c4114413"
+    ],
     "blacklist": [],
     "server_id": null
 }
